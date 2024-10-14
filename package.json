@@ -36,16 +36,8 @@
     "globals": "^15.11.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
-  
-  },
-    "devpendencies": {
-      "eslint": "^9.12.0",
-      "eslint-config-next": "14.2.15",
-      "@typescript-eslint/eslint-plugin": "^8.8.1",
-      "@typescript-eslint/utils": "^8.8.1"
-    
-    }
+    "typescript": "^5",
+    "@typescript-eslint/eslint-plugin": "^8.8.1",
+    "@typescript-eslint/utils": "^8.8.1"
   }
-  
-
+}
